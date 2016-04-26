@@ -1,4 +1,4 @@
-IOSSystemUtils
+IOSSystemUtils fork (rebuilt for iOS 64bit)
 =========
 
 IOSSystemUtils a little IOS ANE extension that lets you:
